@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+	<head>
+		<title>Update Fly Hour</title>
+		<meta charset="ISO-8859-1">
+	</head>
+	<body>
+		<h3 th:text="'Name : ' +${pilot.name}"></h3>
+		<h3 th:text="'Old Fly Hour : ' + ${oldFlyHour}"></h3>
+		<h3 th:text="'New Fly Hour : '+ ${pilot.flyHour}"></h3>
+	</body>
+</html>

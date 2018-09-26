@@ -1,0 +1,17 @@
+Pertanyaan 1.
+Jawab : Hasilnya menunjukkan program berhasil dijalankan, tidak ada error.
+
+Pertanyaan 2.
+Jawab : Hasil dari run program menunjukkan error yang disebebkan karena parameter 'flyHour' tidak ada (diinput).
+
+Pertanyaan 3.
+Jawab : Ya, data pilot muncul dan berhasil di render.
+
+Pertanyaan 4.
+Jawab : Tidak, data pilot tidak muncul (error) karena tidak ada object pilot yg ditemukan sehingga tidak template tidak dapat merender apapun (tidak ada data).
+
+Pertanyaan 5.
+Jawab : Ya, data pilot muncul dan berhasil dirender oleh template.
+
+Pertanyaan 6.
+Jawab : Ya, data pilot yang ditambahkan lagi muncul dan berhasil dirender oleh template.
